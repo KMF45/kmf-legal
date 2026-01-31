@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.tradingjournal",
+      "sha256_cert_fingerprints": [
+        "F0:16:3E:9B:B6:39:9D:A8:AE:F4:C4:33:F3:F9:CC:1D:42:13:94:2F:01:96:81:95:C5:FB:5A:C0:2E:03:84:E2"
+      ]
+    }
+  }
+]
